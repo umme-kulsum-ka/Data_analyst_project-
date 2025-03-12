@@ -33,6 +33,7 @@ The key challenges addressed include:
 •	Excel for data cleaning and analysis
 
 Suggestions for the Company:
+
 •	Optimize Discount Strategies: Reduce discounts on low-profit products while maintaining competitive pricing on high-demand categories.
 
 •	Focus on High-Profit Customers & Products: Prioritize marketing efforts on customer segments generating the most profit rather than just sales volume.
